@@ -1,3 +1,7 @@
+node_modules
+firebase-is-fire-next/node_modules
+firebase-is-fire-cra/node_modules
+
 dist
 .cache
 
