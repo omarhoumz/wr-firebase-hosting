@@ -12,7 +12,10 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.h1}>Firebase Hosting is 🔥</h1>
 
-        <a className={styles.link} href="https://omarhoumz.com">
+        <a
+          className={styles.link}
+          href="https://omarhoumz.com/blog/firebase-hosting/"
+        >
           Check the source
         </a>
       </main>
